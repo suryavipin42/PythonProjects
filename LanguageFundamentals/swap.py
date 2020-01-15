@@ -1,8 +1,8 @@
 # input
-print ("Enter the value of a")
-a = int(input())
-print ("Enter the value of b")
-b = int(input())
+#print ("Enter the value of a")
+a = int(input("enter the value of a"))
+#print ("Enter the value of b")
+b = int(input("enter the value of b"))
 temp = a
 a = b
 b = temp
